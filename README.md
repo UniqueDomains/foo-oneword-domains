@@ -82,7 +82,7 @@ print(df.head())
 | abundant.foo    | available | $16.99    | $18.99        | 80             | 21     | 8      | name.com        |
 | good.foo        | premium   | $623.75   | $623.75       | 82             | 55     | 4      | name.com        |
 | cooked.foo      | available | $16.99    | $18.99        | 70             | 21     | 6      | name.com        |
-| zero.foo        | premium   | $623.75   | $623.75       | 112            | 54     | 4      | name.com        |
+| alpha.foo       | premium   | $1,248.75 | $1,248.75     | 90             | 54     | 5      | name.com        |
 | diligent.foo    | available | $16.99    | $18.99        | 68             | 20     | 8      | name.com        |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
