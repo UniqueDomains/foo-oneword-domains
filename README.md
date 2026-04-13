@@ -72,16 +72,16 @@ print(df.head())
 | athletics.foo   | available | $17.98    | —             | 69             | 52     | 9      | namecheap       |
 | seventeen.foo   | premium   | $36.25    | $36.25        | 84             | 62     | 9      | name.com        |
 | ethereal.foo    | available | $16.99    | $18.99        | 88             | 31     | 8      | name.com        |
-| free.foo        | premium   | $623.75   | $623.75       | 88             | 59     | 4      | name.com        |
-| curative.foo    | available | $16.99    | $18.99        | 92             | 27     | 8      | name.com        |
 | cloud.foo       | premium   | $1,298.70 | $1,298.70     | 70             | 59     | 5      | namecheap       |
-| remedial.foo    | available | $16.99    | $18.99        | 86             | 24     | 8      | name.com        |
+| curative.foo    | available | $16.99    | $18.99        | 92             | 27     | 8      | name.com        |
 | ace.foo         | premium   | $161.25   | $161.25       | 88             | 57     | 3      | name.com        |
+| remedial.foo    | available | $16.99    | $18.99        | 86             | 24     | 8      | name.com        |
+| free.foo        | premium   | $623.75   | $623.75       | 88             | 57     | 4      | name.com        |
 | neutral.foo     | available | $16.99    | $18.99        | 92             | 22     | 7      | name.com        |
 | live.foo        | premium   | $1,248.75 | $1,248.75     | 108            | 56     | 4      | name.com        |
 | abundant.foo    | available | $16.99    | $18.99        | 80             | 21     | 8      | name.com        |
 | good.foo        | premium   | $623.75   | $623.75       | 82             | 55     | 4      | name.com        |
-| cooked.foo      | available | $16.99    | $18.99        | 70             | 21     | 6      | name.com        |
+| cooked.foo      | available | $16.99    | $18.99        | 70             | 20     | 6      | name.com        |
 | zero.foo        | premium   | $623.75   | $623.75       | 112            | 53     | 4      | name.com        |
 | diligent.foo    | available | $16.99    | $18.99        | 68             | 20     | 8      | name.com        |
 
