@@ -16,7 +16,7 @@ Daily-updated dataset of available and resale .foo one-word domains from Unique 
 
 **Public extract:** 9,842 rows · **Live catalog:** 9,842 domains
 
-**Last updated:** 2026-04-12  
+**Last updated:** 2026-04-13  
 **Canonical page:** `https://unique.domains/domains/tld/foo`  
 **Best for:** founders, investors, studios
 
@@ -71,7 +71,7 @@ print(df.head())
 | power.foo       | premium   | $1,298.70 | $1,298.70     | 98             | 62     | 5      | namecheap       |
 | athletics.foo   | available | $17.98    | —             | 69             | 52     | 9      | namecheap       |
 | seventeen.foo   | premium   | $36.25    | $36.25        | 84             | 62     | 9      | name.com        |
-| ethereal.foo    | available | $16.99    | $18.99        | 88             | 32     | 8      | name.com        |
+| ethereal.foo    | available | $16.99    | $18.99        | 88             | 31     | 8      | name.com        |
 | free.foo        | premium   | $623.75   | $623.75       | 88             | 59     | 4      | name.com        |
 | curative.foo    | available | $16.99    | $18.99        | 92             | 27     | 8      | name.com        |
 | cloud.foo       | premium   | $1,298.70 | $1,298.70     | 70             | 59     | 5      | namecheap       |
@@ -82,7 +82,7 @@ print(df.head())
 | abundant.foo    | available | $16.99    | $18.99        | 80             | 21     | 8      | name.com        |
 | good.foo        | premium   | $623.75   | $623.75       | 82             | 55     | 4      | name.com        |
 | cooked.foo      | available | $16.99    | $18.99        | 70             | 21     | 6      | name.com        |
-| alpha.foo       | premium   | $1,248.75 | $1,248.75     | 90             | 54     | 5      | name.com        |
+| zero.foo        | premium   | $623.75   | $623.75       | 112            | 53     | 4      | name.com        |
 | diligent.foo    | available | $16.99    | $18.99        | 68             | 20     | 8      | name.com        |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .FOO One-Word Domains*. Version 2026-04-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .FOO One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
