@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .foo one-word domains from 
 
 **Public extract:** 1,000 rows · **Live catalog:** 12,826 domains · **Median ask:** $82.75 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-15  
+**Last updated:** 2026-05-17  
 **Canonical page:** `https://unique.domains/domains/tld/foo`  
 **Best for:** founders, investors, studios
 
@@ -78,12 +78,12 @@ print(df.head())
 | tickets.foo       | premium   | $623.75   | —             | 64             | 34     | 7      | name.com  |
 | intune.foo        | available | $16.99    | —             | 72             | 16     | 7      | name.com  |
 | teams.foo         | premium   | $311.25   | —             | 62             | 32     | 5      | name.com  |
-| calculators.foo   | available | $16.99    | —             | 54             | 16     | 11     | name.com  |
+| heavymetal.foo    | available | $16.99    | —             | 70             | 16     | 11     | name.com  |
 | inspiration.foo   | premium   | $73.75    | —             | 88             | 30     | 11     | name.com  |
-| accountants.foo   | available | $16.99    | —             | 50             | 16     | 11     | name.com  |
+| calculators.foo   | available | $16.99    | —             | 54             | 16     | 11     | name.com  |
 | spaces.foo        | premium   | $623.75   | —             | 54             | 30     | 6      | name.com  |
-| heavymetal.foo    | available | $16.99    | —             | 70             | 15     | 11     | name.com  |
-| popup.foo         | premium   | $623.75   | —             | 84             | 29     | 6      | name.com  |
+| accountants.foo   | available | $16.99    | —             | 50             | 16     | 11     | name.com  |
+| SanDiego.foo      | premium   | $161.25   | —             | 74             | 29     | 9      | name.com  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .FOO One-Word Domains*. Version 2026-05-15. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .FOO One-Word Domains*. Version 2026-05-17. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
