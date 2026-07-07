@@ -14,10 +14,10 @@ Daily-updated public extract of available and resale .foo one-word domains from 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **12,826 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,826 domains · **Median ask:** $82.75 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 12,826 domains · **Median ask:** $118.74 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-27  
-**Canonical page:** `https://unique.domains/domains/tld/foo`  
+**Last updated:** 2026-07-07
+**Canonical page:** `https://unique.domains/domains/tld/foo`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .FOO one-word domain c
 
 ### Files
 
-- `foo.csv` — public CSV extract (1,000 rows)
-- `foo.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `foo.csv`, public CSV extract (1,000 rows)
+- `foo.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
-| ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
-| RedSox.foo        | available | $17.98    | —             | 72             | 60     | 7      | namecheap |
-| insight.foo       | premium   | $311.25   | —             | 76             | 69     | 8      | name.com  |
-| keepthechange.foo | available | $16.99    | —             | 46             | 59     | 15     | name.com  |
-| regions.foo       | premium   | $73.75    | —             | 64             | 59     | 7      | name.com  |
-| rekt.foo          | available | $16.99    | —             | 40             | 24     | 4      | name.com  |
-| jobs.foo          | premium   | $1,248.75 | —             | 79             | 42     | 4      | name.com  |
-| Allie.foo         | available | $17.98    | —             | 72             | 21     | 5      | namecheap |
-| shortcuts.foo     | premium   | $73.75    | —             | 48             | 41     | 10     | name.com  |
-| smartest.foo      | available | $16.99    | —             | 64             | 20     | 8      | name.com  |
-| stories.foo       | premium   | $623.75   | —             | 58             | 36     | 7      | name.com  |
-| outofoffice.foo   | available | $16.99    | —             | 61             | 19     | 13     | name.com  |
-| tickets.foo       | premium   | $623.75   | —             | 64             | 34     | 7      | name.com  |
-| intune.foo        | available | $16.99    | —             | 72             | 16     | 7      | name.com  |
-| teams.foo         | premium   | $311.25   | —             | 62             | 32     | 5      | name.com  |
-| heavymetal.foo    | available | $16.99    | —             | 70             | 16     | 11     | name.com  |
-| spaces.foo        | premium   | $623.75   | —             | 54             | 30     | 6      | name.com  |
-| calculators.foo   | available | $16.99    | —             | 54             | 16     | 11     | name.com  |
-| SanDiego.foo      | premium   | $161.25   | —             | 74             | 29     | 9      | name.com  |
-| accountants.foo   | available | $16.99    | —             | 50             | 16     | 11     | name.com  |
-| gods.foo          | premium   | $311.25   | —             | 72             | 29     | 4      | name.com  |
+| domain    | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
+| --------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
+| half.foo  | premium   | $1,248.75 | —             | high           | low    | 4      | name.com  |
+| great.foo | premium   | $623.75   | —             | high           | low    | 5      | name.com  |
+| clean.foo | premium   | $623.75   | —             | high           | low    | 5      | name.com  |
+| ahuh.foo  | available | $16.99    | —             | high           | low    | 4      | name.com  |
+| act.foo   | premium   | $1,248.75 | —             | high           | low    | 3      | name.com  |
+| Audi.foo  | available | $16.99    | —             | high           | high   | 4      | name.com  |
+| ana.foo   | premium   | $623.75   | —             | high           | low    | 3      | name.com  |
+| flee.foo  | available | $16.99    | —             | medium         | low    | 4      | name.com  |
+| bow.foo   | premium   | $161.25   | —             | high           | low    | 3      | name.com  |
+| ford.foo  | available | $16.99    | —             | high           | high   | 4      | name.com  |
+| CNN.foo   | premium   | $161.25   | —             | high           | low    | 3      | name.com  |
+| jock.foo  | available | $16.99    | —             | high           | low    | 4      | name.com  |
+| coy.foo   | premium   | $73.75    | $73.75        | medium         | low    | 3      | name.com  |
+| jolt.foo  | available | $16.99    | —             | high           | low    | 4      | name.com  |
+| dip.foo   | premium   | $161.25   | $161.25       | high           | low    | 3      | name.com  |
+| lego.foo  | available | $16.99    | —             | high           | high   | 4      | name.com  |
+| DIY.foo   | premium   | $623.75   | —             | high           | low    | 3      | name.com  |
+| thou.foo  | available | $16.99    | $18.99        | medium         | low    | 4      | name.com  |
+| dog.foo   | premium   | $1,248.75 | —             | high           | low    | 3      | name.com  |
+| ttyl.foo  | available | $16.99    | —             | low            | low    | 4      | name.com  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This set is entirely made up of one-word .foo domains. The names range from broad dictionary words such as active, audio, view, and major to more specific terms like vitamin and routine. For founders, the main question is whether the word is memorable, easy to say, and specific enough to support a brand without feeling narrow. For investors, the focus is cleaner entry pricing, buyer breadth, and whether the word has obvious commercial use. The median ask is 82.75, which keeps price comparison straightforward. Be careful with terms that may carry trademark exposure, especially exact matches to established brands such as Nickelodeon.
+Every domain in this set uses a single common English word paired with the .foo extension, from half.foo and okay.foo to bonappetit.foo and christmas.foo. The median ask across the 12,826 listings is roughly $118.74, putting most names within reach of a small budget. Because each domain is one word, the names read cleanly and are easy to say, spell, and remember, which matters whether you're weighing acquisition cost or long-term brand fit.
 
-- One-word .foo names only, from broad to category-specific terms
-- Median ask is 82.75 across this selection
-- Stronger picks are simple, memorable, and commercially flexible
-- Avoid exact-brand matches where trademark risk looks obvious
+- 12,826 one-word .foo domain names in this set
+- Median ask near $118.74 across the list
+- Everyday words like half, okay, feel, and great
+- Updated daily for consistent pricing context
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .FOO One-Word Domains*. Version 2026-05-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .FOO One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
