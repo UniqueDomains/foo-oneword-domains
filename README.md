@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .foo one-word domains from 
 
 **Public extract:** 1,000 rows · **Live catalog:** 18,800 domains · **Median ask:** $77.70 · **High-demand under $2,500:** 29
 
-**Last updated:** 2026-08-22
+**Last updated:** 2026-08-23
 **Canonical page:** `https://unique.domains/domains/tld/foo`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain    | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
-| --------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
-| half.foo  | premium   | $1,248.75 | —             | high           | low    | 4      | name.com  |
-| great.foo | premium   | $623.75   | —             | high           | low    | 5      | name.com  |
-| clean.foo | premium   | $623.75   | —             | high           | low    | 5      | name.com  |
-| ague.foo  | available | $12.98    | $17.98        | low            | low    | 4      | namecheap |
-| act.foo   | premium   | $1,248.75 | —             | high           | low    | 3      | name.com  |
-| ahuh.foo  | available | $16.99    | —             | high           | low    | 4      | name.com  |
-| ana.foo   | premium   | $623.75   | —             | high           | low    | 3      | name.com  |
-| arum.foo  | available | $12.98    | $17.98        | low            | low    | 4      | namecheap |
-| bow.foo   | premium   | $161.25   | —             | high           | low    | 3      | name.com  |
-| Audi.foo  | available | $16.99    | —             | high           | high   | 4      | name.com  |
-| CNN.foo   | premium   | $161.25   | —             | high           | low    | 3      | name.com  |
-| ecru.foo  | available | $12.98    | $17.98        | low            | low    | 4      | namecheap |
-| coy.foo   | premium   | $73.75    | $73.75        | medium         | low    | 3      | name.com  |
-| eyry.foo  | available | $12.98    | $17.98        | low            | low    | 4      | namecheap |
-| dip.foo   | premium   | $161.25   | $161.25       | high           | low    | 3      | name.com  |
-| flee.foo  | available | $16.99    | —             | medium         | low    | 4      | name.com  |
-| DIY.foo   | premium   | $623.75   | —             | high           | low    | 3      | name.com  |
-| ford.foo  | available | $16.99    | —             | high           | high   | 4      | name.com  |
-| dog.foo   | premium   | $1,248.75 | —             | high           | low    | 3      | name.com  |
-| jock.foo  | available | $16.99    | —             | high           | low    | 4      | name.com  |
+| domain   | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
+| -------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
+| ague.foo | available | $12.98    | $17.98        | low            | low    | 4      | namecheap |
+| act.foo  | premium   | $1,248.75 | —             | high           | low    | 3      | name.com  |
+| ahuh.foo | available | $16.99    | —             | high           | low    | 4      | name.com  |
+| ana.foo  | premium   | $623.75   | —             | high           | low    | 3      | name.com  |
+| arum.foo | available | $12.98    | $17.98        | low            | low    | 4      | namecheap |
+| bow.foo  | premium   | $161.25   | —             | high           | low    | 3      | name.com  |
+| Audi.foo | available | $16.99    | —             | high           | high   | 4      | name.com  |
+| CNN.foo  | premium   | $161.25   | —             | high           | low    | 3      | name.com  |
+| ecru.foo | available | $12.98    | $17.98        | low            | low    | 4      | namecheap |
+| coy.foo  | premium   | $73.75    | $73.75        | medium         | low    | 3      | name.com  |
+| eyry.foo | available | $12.98    | $17.98        | low            | low    | 4      | namecheap |
+| dip.foo  | premium   | $161.25   | $161.25       | high           | low    | 3      | name.com  |
+| flee.foo | available | $16.99    | —             | medium         | low    | 4      | name.com  |
+| DIY.foo  | premium   | $623.75   | —             | high           | low    | 3      | name.com  |
+| ford.foo | available | $16.99    | —             | high           | high   | 4      | name.com  |
+| dog.foo  | premium   | $1,248.75 | —             | high           | low    | 3      | name.com  |
+| jock.foo | available | $16.99    | —             | high           | low    | 4      | name.com  |
+| don.foo  | premium   | $311.25   | —             | high           | low    | 3      | name.com  |
+| jolt.foo | available | $16.99    | —             | high           | low    | 4      | name.com  |
+| eye.foo  | premium   | $623.75   | —             | medium         | low    | 3      | name.com  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .FOO One-Word Domains*. Version 2026-08-22. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .FOO One-Word Domains*. Version 2026-08-23. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
