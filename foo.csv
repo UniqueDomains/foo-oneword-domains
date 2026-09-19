@@ -599,7 +599,7 @@ c929c5f6-99fb-4d78-8f9b-934c57aa13a0,soul.foo,premium,623.75,,high,medium,4,name
 d3f4f618-727a-4d8c-baeb-4f954a23bffd,orca.foo,premium,36.25,,high,medium,4,name.com,,,
 9a234fa2-3cbe-4c47-96ea-9ada5e6bd0cf,guard.foo,premium,311.25,,medium,low,5,name.com,,,
 b312f989-fabf-4c20-bc20-15c4fd1cffb0,card.foo,premium,623.75,,medium,medium,4,name.com,,,
-ae9e1548-3948-4f27-9410-36c11f1dbb68,nontoxic.foo,available,12.98,17.98,low,low,8,namecheap,,,07/08/2026 13:59
+ae9e1548-3948-4f27-9410-36c11f1dbb68,nontoxic.foo,available,12.98,17.98,medium,low,8,namecheap,,,18/09/2026 21:11
 18a92b36-5359-4b2c-86f2-0c6739e63573,thunder.foo,premium,161.25,,medium,low,7,name.com,,,
 5dbd44fe-d782-4037-8b7a-5e24e041aebc,admittible.foo,available,12.98,17.98,low,low,10,namecheap,,,
 15933eb8-f471-4614-9de9-45d1bc7073b2,ruin.foo,premium,36.25,36.25,low,low,4,name.com,,,08/08/2026 13:39
@@ -783,7 +783,6 @@ ddde95f3-5884-4308-816b-dca964b8d5ba,toiletpaper.foo,available,16.99,,high,low,1
 17451ef6-23fd-426f-9cdc-fcb1af4dc764,Iwanttoknow.foo,available,16.99,,medium,low,14,name.com,,,
 c9f1eefe-cbaf-49e3-b785-100fb49b3a05,wrote.foo,premium,36.25,,low,low,5,name.com,,,
 28b12eba-a2ab-4460-b417-f9b50088c34b,formal.foo,premium,161.25,161.25,high,low,6,name.com,,,
-17af8187-fda0-4ae7-9074-adb7749570fb,newlook.foo,available,,,low,low,8,,,,
 7e24401a-b6a4-4aef-b419-66bb3871da85,affable.foo,available,16.99,18.99,high,low,7,name.com,,,
 4467d765-5513-4e58-9bf9-9af061027b49,flyingsaucer.foo,available,16.99,,high,low,13,name.com,,,
 8978d1c2-8dcf-4b22-8fe1-c53a34a68574,moviefilm.foo,available,16.99,,high,low,10,name.com,,,
@@ -999,3 +998,4 @@ ea57ae0c-a72c-427d-b957-9896e3610df2,atsixandseven.foo,available,16.99,,medium,l
 9d5e4967-7993-4f9d-8682-4d911e50ed2e,anaclitic.foo,available,12.98,17.98,low,low,9,namecheap,,,
 eacce399-cff1-43b4-8f27-8315faf53c2e,putaway.foo,available,16.99,,medium,low,8,name.com,,,
 1c897498-2de4-4fbc-8eef-7291f553e61f,paint.foo,premium,623.75,,medium,low,5,name.com,,,
+71cbf5df-882c-4e36-92a1-47aacece0d2f,psycho.foo,premium,161.25,,high,low,6,name.com,,,
