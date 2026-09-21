@@ -1,10 +1,10 @@
-# Available .FOO One-Word Domains (28,342)
+# Available .FOO One-Word Domains (28,986)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-28%2C342%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-28%2C986%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .foo one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **28,342 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **28,986 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 28,342 domains · **Median ask:** $59.88 · **High-demand under $2,500:** 38
+**Public extract:** 1,000 rows · **Live catalog:** 28,986 domains · **Median ask:** $59.26 · **High-demand under $2,500:** 38
 
-**Last updated:** 2026-09-19
+**Last updated:** 2026-09-21
 **Canonical page:** `https://unique.domains/domains/tld/foo`
 **Best for:** founders, investors, studios
 
@@ -70,14 +70,14 @@ print(df.head())
 | ana.foo  | premium   | $623.75   | —             | high           | low    | 3      | name.com  |
 | arum.foo | available | $12.98    | $17.98        | low            | low    | 4      | namecheap |
 | bow.foo  | premium   | $161.25   | —             | high           | low    | 3      | name.com  |
-| Audi.foo | available | $16.99    | —             | high           | high   | 4      | name.com  |
-| CNN.foo  | premium   | $161.25   | —             | high           | low    | 3      | name.com  |
+| audi.foo | available | $16.99    | —             | high           | high   | 4      | name.com  |
+| cnn.foo  | premium   | $161.25   | —             | high           | low    | 3      | name.com  |
 | ecru.foo | available | $12.98    | $17.98        | low            | low    | 4      | namecheap |
 | coy.foo  | premium   | $73.75    | $73.75        | medium         | low    | 3      | name.com  |
 | eyry.foo | available | $12.98    | $17.98        | low            | low    | 4      | namecheap |
 | dip.foo  | premium   | $161.25   | $161.25       | high           | low    | 3      | name.com  |
 | flee.foo | available | $16.99    | —             | medium         | low    | 4      | name.com  |
-| DIY.foo  | premium   | $623.75   | —             | high           | low    | 3      | name.com  |
+| diy.foo  | premium   | $623.75   | —             | high           | low    | 3      | name.com  |
 | ford.foo | available | $16.99    | —             | high           | high   | 4      | name.com  |
 | dog.foo  | premium   | $1,248.75 | —             | high           | low    | 3      | name.com  |
 | jock.foo | available | $16.99    | —             | high           | low    | 4      | name.com  |
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 28,342 live domains                        |
+| 1,000-row public sample | 28,986 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 38 high-demand names under $2,500          |
 | No persistence          | Radar, saved search, and alerts            |
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .FOO One-Word Domains*. Version 2026-09-19. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .FOO One-Word Domains*. Version 2026-09-21. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
